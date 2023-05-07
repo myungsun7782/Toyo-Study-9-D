@@ -51,7 +51,12 @@ class Shop {
     }
     
     func isValidProductNumber(for number: Int) -> Bool {
-        return productsList.indices.contains(number)
+        if !productsList.indices.contains(number) {
+            print("존재하지 않는 상품 번호입니다.\n")
+            return false
+        }
+        
+        return true
     }
     
     func showPurchaseCompletedMessage(with product: Product) {

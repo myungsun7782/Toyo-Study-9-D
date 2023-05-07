@@ -37,13 +37,11 @@ class Camper {
     }
     
     private func buy(_ productNumber: Int, in shop: Shop) {
-        if !shop.isValidProductNumber(for: productNumber) {
-            print("존재하지 않는 상품 번호입니다.\n")
+        if !shop.isValidProductNumber(for: productNumber) ||
+            shop.isProductSoldOut(productNumber) {
             return
         } else if didSpendAllMoney() {
             print("구매할 돈이 부족합니다.\n")
-            return
-        } else if shop.isProductSoldOut(productNumber) {
             return
         }
     
