@@ -34,4 +34,10 @@
 
 
 
+<br/>
 
+## 타임 라인
+
+[[week01] Optional](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek01%5D-Optional)
+
+[[week02] Type](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek02%5D-Type)
