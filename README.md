@@ -41,3 +41,7 @@
 [[week01] Optional](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek01%5D-Optional)
 
 [[week02] Type](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek02%5D-Type)
+
+[[week03] MVC, NotificationCenter](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek03%5D-MVC,-NotificationCenter)
+
+[[week04] View State Method](https://github.com/myungsun7782/Toyo-Study-9-D/wiki/%5Bweek04%5D-View-State-Method)
